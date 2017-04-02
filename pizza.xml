@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<pizza name="Three Ace" address="1613 Massachusetts Ave">
+	<item name="Pizza" size="sm/lg">
+	<food name="Tomato and Cheese">
+	<price>6.85</price>
+	<price>10.85</price>
+	</food>
+	
+	<food name="Grilled Chicken">
+	<price>7.95</price>
+	<price>11.80</price>
+	</food>
+	
+	<food name="2-way combo">
+	<price>7.95</price>
+	<price>11.80</price>
+	</food>
+	
+	<food name="3-way combo">
+	<price>8.90</price>
+	<price>12.80</price>
+	</food>
+	
+	
+	
+	<food name="Extra Cheese">
+	<price>1.25</price>
+	<price>1.85</price>
+	</food>
+	</item>
+	
+	<item name="Special Pizza" size="sm$9.8/lg$15.8">
+		<food name="Three aces Special">
+		</food>
+	
+		<food name="Meat Lovers pepperoni,Sausage and Bacon">
+		</food>
+	
+		<food name="Grecian Supreme Grilled Chicken">
+		</food>
+	</item>
+	
+	<item name="Special Dinners">
+	<food name="Chicken wing Dinner">
+	<price>7.25</price>
+	</food>
+	
+	<food name="Gyro Plate">
+	<price>7.25</price>
+	</food>
+	
+	<food name="Chicken Burger Plate ">
+	<price>5.25</price>
+	</food>
+	
+	<food name="Chicken Kabob plate">
+	<price>7.85</price>
+	</food>
+	</item>
+	
+	<item name="Side orders">
+	<food name="Onion rings">
+	<price>2.60</price>
+	<price>2.95</price>
+	</food>
+	<food name="French Fries">
+	<price>2.25</price>
+	<price>2.65</price>
+	</food>
+	<food name="Chicken Burger">
+	<price>2.75</price>
+	</food>
+	</item>
+	
+	<item name="Wraps $4.95">
+	<food name="Turkey club wrap"></food>
+	<food name="Steak wrap"></food>
+	<food name="Greek Supreme Feta Cheese"></food>
+	</item>
+	
+	<item name="Grinders" size="Sm/lg">
+	<food name="Meatless">
+	<price>4.50</price>
+	<price>4.95</price>
+	</food>
+	<food name="Onion steak">
+	<price>5.20</price>
+	<price>6.20</price>
+	</food>
+	<food name="Grilled chicken on Pita">
+	<price>5.50</price>
+	</food>
+	
+	</item>
+	
+	</pizza>
